@@ -35,11 +35,17 @@ h6 {
   line-height: normal;
 }
 
+div {
+  color: white;
+}
 a {
   color: $blue;
   text-decoration: none;
 }
 
+p {
+  color: white;
+}
 blockquote {
   border-left: .25rem solid $grey-2;
   color: $grey-1;
